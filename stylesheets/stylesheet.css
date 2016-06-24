@@ -22,3 +22,10 @@ text-decoration: none;
 
 
 }
+
+.navitem a:hover {
+background-color: #2ecc71;
+color: #e74c3c;
+
+
+}
